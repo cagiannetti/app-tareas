@@ -1,0 +1,16 @@
+*{
+	box-sizing:border-box;
+}
+
+body {
+    font-family: 'Calibri';
+	font-size:1.2em;
+	background: #eee;
+}
+
+#contenedor{
+	width:60%;
+	margin: auto;
+	background: white;
+	padding: 20px;
+}
