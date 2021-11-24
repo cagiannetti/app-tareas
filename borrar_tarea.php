@@ -27,7 +27,7 @@
 			$consulta="DELETE FROM tareas WHERE id='$id'";
 			$conexion->query($consulta);
 			
-			echo "Se eliminó la tarea.";
+			echo "Se eliminó la tarea!.";
 			
 		?>	
 		<a href="index.php">inicio</a>
